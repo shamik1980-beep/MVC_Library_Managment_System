@@ -3,6 +3,8 @@ package com.lab.mvc.controller;
 import com.lab.mvc.model.BookRepository;
 import com.lab.mvc.view.BookView;
 
+\\ This is a controller class with BoonRepsotory and BookView
+
 public class BookController {
     private final BookRepository repo;
     private final BookView view;
